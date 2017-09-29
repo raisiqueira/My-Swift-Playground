@@ -1,6 +1,7 @@
 //: Playground - noun: a place where people can play
 
 import UIKit
+import PlaygroundSupport
 
 var str = "a place where people can play"
 // Loops
@@ -69,3 +70,14 @@ var stringTeste = "Teste String"
 funcBasic
 
 var helloWorld = "Hello " + "World"
+
+var occupations = [
+    "Malcolm": "Captain",
+    "Kaylee": "Mechanic",
+]
+occupations["Jayne"] = "Public Relations"
+
+print(occupations)
+
+var nomeRai = "Rai Siqueira"
+nomeRai = nomeRai.capitalized
