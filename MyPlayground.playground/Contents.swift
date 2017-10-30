@@ -81,3 +81,11 @@ print(occupations)
 
 var nomeRai = "Rai Siqueira"
 nomeRai = nomeRai.capitalized
+
+// datas
+
+var now = Date()
+
+let calendar = NSCalendar.current
+let date = calendar.date(byAdding: .day, value: -1, to: Date())
+
