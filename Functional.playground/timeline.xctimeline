@@ -2,5 +2,30 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/raisiqueira/xCode/MyPlayground-Swift/Functional.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=571&amp;EndingColumnNumber=32&amp;EndingLineNumber=26&amp;StartingColumnNumber=24&amp;StartingLineNumber=26&amp;Timestamp=533427032.269636"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/raisiqueira/xCode/MyPlayground-Swift/Functional.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=680&amp;EndingColumnNumber=18&amp;EndingLineNumber=29&amp;StartingColumnNumber=18&amp;StartingLineNumber=29&amp;Timestamp=533427032.269915"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/raisiqueira/xCode/MyPlayground-Swift/Functional.playground#CharacterRangeLen=42&amp;CharacterRangeLoc=243&amp;EndingColumnNumber=25&amp;EndingLineNumber=15&amp;StartingColumnNumber=5&amp;StartingLineNumber=14&amp;Timestamp=533427032.270122"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/raisiqueira/xCode/MyPlayground-Swift/Functional.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=252&amp;EndingColumnNumber=20&amp;EndingLineNumber=14&amp;StartingColumnNumber=14&amp;StartingLineNumber=14&amp;Timestamp=533427032.270323"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/raisiqueira/xCode/MyPlayground-Swift/Functional.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=350&amp;EndingColumnNumber=54&amp;EndingLineNumber=16&amp;StartingColumnNumber=30&amp;StartingLineNumber=16&amp;Timestamp=533427032.270549"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
